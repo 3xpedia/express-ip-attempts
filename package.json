@@ -1,0 +1,12 @@
+{
+  "name": "express-ip-attempts",
+  "version": "0.1.0",
+  "description": "Limit requests count on an API for users by applying couldown on recurrent requests",
+  "homepage": "https://github.com/3xpedia/express-ip-attempts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/3xpedia",
+  "license": "ISC"
+}
